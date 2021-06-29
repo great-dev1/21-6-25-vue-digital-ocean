@@ -1,4 +1,4 @@
-const airports = [
+export default [
   {
     name: 'Cincinnati/Northern Kentucky International Airport',
     abbreviation: 'CVG',
@@ -18,5 +18,3 @@ const airports = [
     state: 'MN'
   }
 ]
-
-export default airports
